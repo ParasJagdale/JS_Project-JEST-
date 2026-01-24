@@ -72,14 +72,14 @@ Have an idea to make this better? Open an issue tagged with `enhancement` and de
 2. **Clone your fork**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/ParasJagdale/JS_Project-JEST-.git
    cd YOUR_REPO_NAME
    ```
 
 3. **Add upstream remote**
 
    ```bash
-   git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPO.git
+   git remote add upstream https://github.com/ParasJagdale/JS_Project-JEST-.git
    ```
 
 4. **Install dependencies**
